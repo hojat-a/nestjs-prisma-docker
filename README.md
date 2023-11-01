@@ -35,6 +35,7 @@
         <li><a href="#normal-way">2.Normal Way (hard way :S)</a></li>
       </ul>
     </li>
+    <li><a href="#to-dos">To-Dos</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -129,6 +130,10 @@ Or
     ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## To-Dos
+* Logging
+* Exception Handling
+* Tests (Unit & E2E)
 
 ## Contact
 
